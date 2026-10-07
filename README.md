@@ -424,7 +424,7 @@ Sales-Data-SQL-PowerBI/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/ankita-singhhh/Sales-Data-SQL-PowerBI.git
+git clone https://github.com/newcode2315/Sales-Data-SQL-PowerBI.git
 cd Sales-Data-SQL-PowerBI
 ```
 
@@ -491,7 +491,7 @@ as the main analytical data source.
 # 🔗 Project Links
 
 - **GitHub Repository:**  
-  https://github.com/ankita-singhhh/Sales-Data-SQL-PowerBI
+  https://github.com/newcode2315/Sales-Data-SQL-PowerBI.git
 
 - **SQL Analysis:**  
   [SQL Folder](SQL/)
@@ -527,21 +527,4 @@ The project demonstrates practical skills in:
 
 ---
 
-# 👩‍💻 Author
 
-**Ankita Singh**
-
-B.Tech — Computer Science & Engineering (Data Science)
-
-### Areas of Interest
-
-- Data Analytics
-- SQL
-- Power BI
-- Python
-- Machine Learning
-- Generative AI
-
----
-
-⭐ **If you found this project useful, feel free to explore the repository and connect with me on GitHub.**
